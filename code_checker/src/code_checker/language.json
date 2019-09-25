@@ -1,0 +1,30 @@
+{
+    "java": {
+        "lineStartLabel": "//",
+        "lineEndLabel": "",
+        "blockStartLabel": "/*",
+        "blockMidLabel": "*",
+        "blockEndLabel": "*/"
+    },
+    "ts": {
+        "lineStartLabel": "//",
+        "lineEndLabel": "",
+        "blockStartLabel": "/*",
+        "blockMidLabel": "*",
+        "blockEndLabel": "*/"
+    },
+    "py": {
+        "lineStartLabel": "#",
+        "lineEndLabel": "",
+        "blockStartLabel": "'''",
+        "blockMidLabel": "",
+        "blockEndLabel": "'''"
+    },
+    "rb": {
+        "lineStartLabel": "",
+        "lineEndLabel": "",
+        "blockStartLabel": "",
+        "blockMidLabel": "",
+        "blockEndLabel": ""
+    }
+}
